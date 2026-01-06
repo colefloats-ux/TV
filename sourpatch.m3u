@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ABC (WBKO) Bowling Green KY" tvg-logo="" group-title="LOCALS",ABC (WBKO) Bowling Green
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107851
+#EXTINF:-1 tvg-ID="" tvg-name="CBS (WKYT) Lexington KY" tvg-logo="" group-title="LOCALS",CBS (WKYT) Lexington KY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106356
+#EXTINF:-1 tvg-ID="" tvg-name="NBC (WLEX) Lexington KY" tvg-logo="" group-title="REGIONAL LOCALS",NBC (WLEX) Lexington KY
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106582
+#EXTINF:-1 tvg-ID="foxnews.us" tvg-name="FOX NEWS" tvg-logo="http://primestreamstv.com/logos/foxnewshdd.png" group-title="TV",FOX NEWS
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102170
+
+
